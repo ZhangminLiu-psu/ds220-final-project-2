@@ -1,0 +1,24 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.python-version
+
+# PyCharm / IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+*.ipynb_checkpoints
+
+# Working files / backups (not for the published repo)
+analysis_user_edits.ipynb
+analysis*.bak.ipynb
