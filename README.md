@@ -2,7 +2,7 @@
 
 A 44-year analysis of women's representation in Hollywood films, using the Bechdel Test as the lens.
 
-**Live site:** https://YOUR-GITHUB-USERNAME.github.io/REPO-NAME/
+**Live site:** https://zhangminliu-psu.github.io/ds220-final-project-2/
 
 ## What's in this repo
 
@@ -29,8 +29,8 @@ Following the DS 220 Project II rubric, the notebook is organized into:
 ## Running it locally
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/REPO-NAME.git
-cd REPO-NAME
+git clone https://github.com/ZhangminLiu-psu/ds220-final-project-2.git
+cd ds220-final-project-2
 pip install -r requirements.txt   # or: pip install pandas matplotlib seaborn jupyter
 jupyter notebook analysis.ipynb
 ```
